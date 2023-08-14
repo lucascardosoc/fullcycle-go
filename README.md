@@ -29,3 +29,6 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um 
 
 <h2>Autor</h2>
 Lucas Cardoso de Castro / lucascardosoc
+
+<h2>Docker Hub</h2>
+<a>https://hub.docker.com/repository/docker/lucascardosooc/fullcycle/general</a>
